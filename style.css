@@ -1,3 +1,21 @@
-.cuadros{
+.expanded-row{
+	background: lightblue;
+	margin-bottom: 20px;
+}
 
+p{
+    margin-bottom: 1px;
+}
+
+input{
+	color: gray;
+	width: 100%
+}
+
+.enviar{
+	background: #58ACFA;
+	width: 100%;
+	color: white;
+	border: none;
+	margin-top: 20px;
 }
